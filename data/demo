@@ -1,0 +1,4 @@
+This is the demo for kibana
+
+POST /national-parks/_bulk
+the content in national-es-bulk-index.json
